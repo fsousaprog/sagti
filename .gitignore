@@ -1,0 +1,8 @@
+target/
+.m2/
+.settings/
+.idea/
+.idea
+.gitignore~
+.classpath
+/bin/

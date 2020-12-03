@@ -1,0 +1,33 @@
+ERROR	2017-11-03 21:33:00,019	0	br.com.sagti.model.dao.CompanhiaDAO	[http-nio-8080-exec-5]	org.springframework.orm.jpa.JpaSystemException: could not execute statement; nested exception is org.hibernate.exception.GenericJDBCException: could not execute statement
+ERROR	2017-11-03 22:17:01,737	2641718	br.com.sagti.model.dao.CompanhiaDAO	[http-nio-8080-exec-6]	org.springframework.orm.jpa.JpaSystemException: could not execute statement; nested exception is org.hibernate.exception.GenericJDBCException: could not execute statement
+ERROR	2017-11-05 17:31:53,588	0	br.com.sagti.model.dao.CompanhiaDAO	[http-nio-8080-exec-9]	Erro ao encontrar e salvar lista de servicos: java.lang.NumberFormatException: For input string: ""
+ERROR	2017-11-05 17:32:22,840	29252	br.com.sagti.model.dao.CompanhiaDAO	[http-nio-8080-exec-8]	Erro ao encontrar e salvar lista de servicos: java.lang.NumberFormatException: For input string: ""
+ERROR	2017-11-05 17:33:08,003	74415	br.com.sagti.model.dao.CompanhiaDAO	[http-nio-8080-exec-1]	Erro ao encontrar e salvar lista de servicos: java.lang.NumberFormatException: For input string: ""
+ERROR	2017-11-05 17:33:45,040	111452	br.com.sagti.model.dao.CompanhiaDAO	[http-nio-8080-exec-1]	Erro ao encontrar e salvar lista de servicos: java.lang.NumberFormatException: For input string: ""
+ERROR	2017-11-05 17:33:54,241	120653	br.com.sagti.model.dao.CompanhiaDAO	[http-nio-8080-exec-10]	Erro ao encontrar e salvar lista de servicos: java.lang.NumberFormatException: For input string: ""
+ERROR	2017-11-05 17:47:03,775	0	br.com.sagti.model.dao.CompanhiaDAO	[http-nio-8080-exec-3]	Erro ao encontrar e salvar lista de servicos: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'spring.datasource-org.springframework.boot.autoconfigure.jdbc.DataSourceProperties': Initialization of bean failed; nested exception is javax.validation.ValidationException: Unable to get available provider resolvers.
+ERROR	2017-11-11 18:50:03,935	0	br.com.sagti.model.dao.IncidenteDAO	[restartedMain]	java.lang.NullPointerException
+ERROR	2017-11-11 19:06:54,329	0	br.com.sagti.model.dao.IncidenteDAO	[restartedMain]	java.lang.NullPointerException
+ERROR	2017-11-11 19:07:26,464	32135	br.com.sagti.model.dao.IncidenteDAO	[restartedMain]	java.lang.NullPointerException
+ERROR	2017-11-11 19:09:17,976	0	br.com.sagti.model.dao.IncidenteDAO	[restartedMain]	java.lang.NullPointerException
+ERROR	2017-11-11 19:31:51,849	0	br.com.sagti.model.dao.IncidenteDAO	[restartedMain]	java.io.FileNotFoundException: /META-INF/dump.xls (Arquivo ou diretório não encontrado)
+ERROR	2017-11-11 19:35:14,813	0	br.com.sagti.model.dao.IncidenteDAO	[restartedMain]	org.apache.poi.poifs.filesystem.OfficeXmlFileException: The supplied data appears to be in the Office 2007+ XML. You are calling the part of POI that deals with OLE2 Office Documents. You need to call a different part of POI to process this data (eg XSSF instead of HSSF)
+ERROR	2017-11-11 19:43:21,503	0	br.com.sagti.model.dao.IncidenteDAO	[restartedMain]	org.apache.poi.poifs.filesystem.OfficeXmlFileException: The supplied data appears to be in the Office 2007+ XML. You are calling the part of POI that deals with OLE2 Office Documents. You need to call a different part of POI to process this data (eg XSSF instead of HSSF)
+ERROR	2017-11-11 20:04:11,678	0	br.com.sagti.model.dao.IncidenteDAO	[restartedMain]	java.lang.IllegalStateException: Cannot get a STRING value from a NUMERIC cell
+ERROR	2017-11-11 20:07:35,908	0	br.com.sagti.model.dao.IncidenteDAO	[restartedMain]	java.lang.NullPointerException
+ERROR	2017-11-11 20:08:52,158	0	br.com.sagti.model.dao.IncidenteDAO	[restartedMain]	java.lang.NullPointerException
+ERROR	2017-11-11 20:10:48,219	0	br.com.sagti.model.dao.IncidenteDAO	[restartedMain]	java.lang.IllegalStateException: Cannot get a STRING value from a NUMERIC cell
+ERROR	2017-11-11 20:21:29,770	0	br.com.sagti.model.dao.IncidenteDAO	[restartedMain]	java.lang.NullPointerException
+ERROR	2017-11-11 20:23:03,742	0	br.com.sagti.model.dao.IncidenteDAO	[restartedMain]	java.lang.NullPointerException
+ERROR	2017-11-11 20:32:03,250	0	br.com.sagti.model.dao.IncidenteDAO	[restartedMain]	java.lang.NullPointerException
+ERROR	2017-11-11 20:41:44,138	0	br.com.sagti.model.dao.IncidenteDAO	[restartedMain]	java.lang.NullPointerException
+ERROR	2017-11-11 21:01:17,635	0	br.com.sagti.model.dao.CompanhiaDAO	[restartedMain]	Erro ao encontrar e salvar lista de servicos: java.lang.NumberFormatException: For input string: " 2"
+ERROR	2017-11-11 21:01:38,532	20897	br.com.sagti.model.dao.IncidenteDAO	[restartedMain]	java.lang.Exception: java.lang.NumberFormatException: For input string: " 2"
+ERROR	2017-11-11 21:06:28,649	0	br.com.sagti.model.dao.IncidenteDAO	[restartedMain]	java.lang.IllegalStateException: Cannot get a STRING value from a NUMERIC cell
+ERROR	2017-11-11 21:12:17,481	0	br.com.sagti.model.dao.IncidenteDAO	[restartedMain]	java.lang.IllegalStateException: Cannot get a STRING value from a NUMERIC cell
+ERROR	2017-11-11 21:14:40,232	0	br.com.sagti.model.dao.CompanhiaDAO	[restartedMain]	Erro ao encontrar e salvar lista de incidentes relacionados: java.lang.NumberFormatException: For input string: " 47"
+ERROR	2017-11-11 21:14:40,232	0	br.com.sagti.model.dao.IncidenteDAO	[restartedMain]	java.lang.Exception: java.lang.NumberFormatException: For input string: " 47"
+ERROR	2017-11-11 21:21:46,594	0	br.com.sagti.model.dao.IncidenteDAO	[restartedMain]	org.springframework.dao.DataIntegrityViolationException: could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+ERROR	2017-11-11 21:26:40,424	0	br.com.sagti.model.dao.IncidenteDAO	[restartedMain]	org.springframework.dao.DataIntegrityViolationException: could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+ERROR	2017-11-11 21:27:38,450	1	br.com.sagti.model.dao.IncidenteDAO	[restartedMain]	org.springframework.dao.DataIntegrityViolationException: could not execute statement; SQL [n/a]; constraint [null]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+ERROR	2017-11-11 21:37:07,851	0	br.com.sagti.model.dao.CompanhiaDAO	[http-nio-8080-exec-3]	Erro ao encontrar e salvar lista de servicos: java.lang.NumberFormatException: For input string: " 2"
